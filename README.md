@@ -6,27 +6,27 @@ This repository is a curated collection of powerful tools and resources carefull
 
 ## What's inside?
 
-- ### Areon Request for Comment (ARC) Standards
+- ### Areum Request for Comment (ARC) Standards
 
   ARC1155, ARC721 & ARC20 code samples.
 
-  [Download Repository (\.zip)](https://github.com/Areon-Network/ARCs/archive/refs/heads/main.zip)
+  [Download Repository (\.zip)](https://github.com/Areum-Network/ARCs/archive/refs/heads/main.zip)
 
 - ### Address Converter
 
-  Areon uses two different addressing algorithms. One of them is the hexadecimal and the other one is a more reable and weight-efficient way of creating addresses. And we've built a tool in order to ease the problem of converting those addresses from one to another.
+  Areum uses two different addressing algorithms. One of them is the hexadecimal and the other one is a more reable and weight-efficient way of creating addresses. And we've built a tool in order to ease the problem of converting those addresses from one to another.
 
-  [Download Repository (\.zip)](https://github.com/Areon-Network/address-converter/archive/refs/heads/main.zip)
+  [Download Repository (\.zip)](https://github.com/Areum-Network/address-converter/archive/refs/heads/main.zip)
 
 - ### Hardhat Template
-  Hardhat is a tool used to build & deploy contracts on an EVM-chain, in this project template you'll get everything you need in order to deploy an app on Areon without having the burden of configuration.
+  Hardhat is a tool used to build & deploy contracts on an EVM-chain, in this project template you'll get everything you need in order to deploy an app on Areum without having the burden of configuration.
   
-  [Download Repository (\.zip)](https://github.com/Areon-Network/Hardhat-Template/archive/refs/heads/main.zip)
+  [Download Repository (\.zip)](https://github.com/Areum-Network/Hardhat-Template/archive/refs/heads/main.zip)
   
 - ### Assets & MediaKit
-  If you ever fancy using Areon's logo and/or name in anywhere of your project you might need official assets.
+  If you ever fancy using Areum's logo and/or name in anywhere of your project you might need official assets.
   
-  [Download MediaKit (\.zip)](https://areon.network/downloads/Areon_Media_Kit_2023.zip)
+  [Download MediaKit (\.zip)](https://areum.network/downloads/MediaKit25.zip)
 
 - ### Developer Experience
   You will use Solidity for writing contracts that work on ARC standards. And you need an integrated-development-environment or an IDE.
